@@ -32,3 +32,4 @@ Após a instalação, certifique-se de configurar as variáveis de ambiente para
 
 ```bash
 terraform version
+```
